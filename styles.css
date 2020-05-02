@@ -13,6 +13,18 @@ body {
 /* header
 ************************* */
 header {
-  position: abosulute;
+  /* position: abosulute; */
   margin-top: 1em;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 1em;
+  
 }
