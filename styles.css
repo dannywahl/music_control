@@ -28,3 +28,11 @@ nav li {
   margin: 1em;
 }
 
+nav a {
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: .8rem;
+  padding: .5em;
+}
+
