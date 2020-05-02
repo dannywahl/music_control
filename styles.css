@@ -10,7 +10,7 @@ body {
   text-align: center;
 }
 
-.page-wrap { background: BlueViolet; }
+.page-wrap { background: #8A2BE2; }
 
 /* header
 ************************* */
@@ -36,7 +36,7 @@ nav a {
   text-transform: uppercase;
   font-size: .8rem;
   padding: .5em;
-  color: BlueViolet;
+  color: #FFF;
 }
 
 nav a:hover,
