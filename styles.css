@@ -8,11 +8,12 @@ body {
   margin = 0;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  background-color: #8A2BE2;
 }
 
-.page-wrap {
+/* .page-wrap {
   background: #8A2BE2;
-}
+} */
 
 /* header
 ************************* */
