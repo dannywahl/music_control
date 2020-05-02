@@ -9,3 +9,10 @@ body {
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
+
+/* header
+************************* */
+header {
+  position: abosulute;
+  margin-top: 1em;
+}
