@@ -10,7 +10,7 @@ body {
   text-align: center;
 }
 
-.page-wrap {background: DarkBlue; }
+.page-wrap {background: BlueViolet; }
 
 /* header
 ************************* */
@@ -41,4 +41,3 @@ nav a {
 .home-1 {
   padding: 10em 0;
 }
-  
