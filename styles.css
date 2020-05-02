@@ -8,7 +8,6 @@ body {
   margin = 0;
   font-family: 'Raleway', sans-serif;
   text-align: center;
-  color: Cornsilk;
 }
 
 .page-wrap {background: BlueViolet; }
@@ -18,12 +17,14 @@ body {
 header {
   /* position: absolute; */
   margin: 1em;
+  color: Cornsilk;
 }
 
 nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
+  color: Cornsilk;
 }
 
 nav li {
@@ -37,6 +38,7 @@ nav a {
   text-transform: uppercase;
   font-size: .8rem;
   padding: .5em;
+  color: Cornsilk;
 }
 
 .home-1 {
