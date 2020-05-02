@@ -40,8 +40,10 @@ nav a {
   text-transform: uppercase;
   font-size: .8rem;
   padding: .5em;
+  color: #FFF;
 }
 
-.home-1 {
-  padding: 10em 0;
+nav a:hover,
+nav a:focus {
+  color: #DDD;
 }
