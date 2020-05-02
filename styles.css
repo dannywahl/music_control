@@ -10,9 +10,7 @@ body {
   text-align: center;
 }
 
-html { 
-  background-color: #8A2BE2;
-}
+.page-wrap {background: BlueViolet; }
 
 /* header
 ************************* */
