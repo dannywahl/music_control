@@ -11,7 +11,9 @@ body {
   background: linear-gradient(circle, black, white);
 }
 
-.page-wrap{ background-color: #8A2BE2}
+html { 
+  background-color: #8A2BE2
+}
 
 /* header
 ************************* */
