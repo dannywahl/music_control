@@ -17,14 +17,12 @@ body {
 header {
   /* position: absolute; */
   margin: 1em;
-  color: Cornsilk;
 }
 
 nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  color: Cornsilk;
 }
 
 nav li {
