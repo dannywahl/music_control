@@ -10,7 +10,11 @@ body {
   text-align: center;
 }
 
-.page-wrap {background: BlueViolet; }
+html {
+  background-color: BlueViolet;
+}
+
+/* .page-wrap {background: BlueViolet; } */
 
 /* header
 ************************* */
