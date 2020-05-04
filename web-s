@@ -10,7 +10,7 @@ def url_to_ts(url)
   soup = BeautifulSoup(page,"lxml")
   data_tmp = [p.text for p in soup.find(class_="ng-scope").find_all('p')]
 
-ts_today = url_to_ts("https://www.nordpoolgroup.com/Market-data1/Dayahead/Area-Prices/ALL1/Hourly/?view=table")
+ts_today = url_to_ts('https://www.nordpoolgroup.com/Market-data1/Dayahead/Area-Prices/ALL1/Hourly/?view=table')
 
 mkdir ts_pickled_2020_05_04
 with open("ts_pickled_2020_05_04/"+0+".txt","rb") as file:
